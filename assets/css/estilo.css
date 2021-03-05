@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul,li{
+    list-style: none;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.banner{
+    margin-bottom: 25px;
+}
+
+.palco{
+    width: 894px;
+    margin: 0px auto;
+}
+
+.lista_produtos{
+    display: flex;
+}
+
+.lista_produtos li{
+    margin-right: 15px;
+}
+
+.lista_produtos li:last-child{
+    margin-right: 0;
+}
+
+.lista_produtos li img{
+    width: 100%;
+}
+
+.lista_produtos li .informacoes .titulo_produto{
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.lista_produtos li .informacoes .preco_de{
+    color: #999;
+}
+
+.lista_produtos li .informacoes .preco_por_apenas{
+    color: #000;
+    font-size: 14px;
+}
+
+.lista_produtos li .informacoes .botao{
+    background: rgb(61, 241, 45);
+    color: #000;
+    text-decoration: none;
+    padding: 5px 10px;
+    margin-top: 10px;
+    display: inline-block;
+}
