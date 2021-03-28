@@ -1,5 +1,5 @@
 <p align="center">
-![](http://www.connect4sell.com/img/avatar-ifcmaravilhas.20bab9b4.jpg)
+    <img src="http://www.connect4sell.com/img/avatar-ifcmaravilhas.20bab9b4.jpg">
 </p>
 <h5 align="center">Aqui temos todos os códigos do novo site. Antes de sair copiando, entenda a estrutura das pastas:</h6>
 <br />
@@ -17,13 +17,13 @@ assets/
 **CSS**: Todos os arquivos de estilo.
 
 <br>
-##Bootstrap 4.4
+## Bootstrap 4.4
 Estamos utilizando o boostrap para nos auxiliar no desenvolvimento do layout responsivo e em alguns pontos importantes para agilizar o nosso processo de desenvolvimento.
 
 [Clique aqui](https://getbootstrap.com/docs/4.4/getting-started/introduction/) e veja a documentação completa do Bootstrap
 
 <br>
-##Fluxo de trabalho
+## Fluxo de trabalho
 Temos algumas 2 branchs principais:
 - master
 - develop
