@@ -17,6 +17,7 @@ assets/
 **CSS**: Todos os arquivos de estilo.
 
 <br>
+
 ## Bootstrap 4.4
 
 Estamos utilizando o boostrap para nos auxiliar no desenvolvimento do layout responsivo e em alguns pontos importantes para agilizar o nosso processo de desenvolvimento.
@@ -24,6 +25,7 @@ Estamos utilizando o boostrap para nos auxiliar no desenvolvimento do layout res
 [Clique aqui](https://getbootstrap.com/docs/4.4/getting-started/introduction/) e veja a documentação completa do Bootstrap
 
 <br>
+
 ## Fluxo de trabalho
 
 Temos algumas 2 branchs principais:
