@@ -1,5 +1,5 @@
 <p align="center">
-![](https://scontent.fgru6-1.fna.fbcdn.net/v/t1.0-1/p148x148/46139997_905757022881465_5210348045094354944_o.png?_nc_cat=107&ccb=1-3&_nc_sid=1eb0c7&_nc_ohc=Mmmco4cbRaUAX8Pq3iR&_nc_ht=scontent.fgru6-1.fna&_nc_tp=30&oh=9d9902949d4f5437f81fb6a5fb3cf511&oe=6086956D)
+![](http://www.connect4sell.com/img/avatar-ifcmaravilhas.20bab9b4.jpg)
 </p>
 <h5 align="center">Aqui temos todos os códigos do novo site. Antes de sair copiando, entenda a estrutura das pastas:</h6>
 <br />
