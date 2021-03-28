@@ -28,7 +28,7 @@ Estamos utilizando o boostrap para nos auxiliar no desenvolvimento do layout res
 
 ## Fluxo de trabalho
 
-Temos algumas 2 branchs principais:
+Temos 2 branchs principais:
 - master
 - develop
 
@@ -48,6 +48,7 @@ git checkout -b feature/nove_da_sua_branch
 ```
 <br>
 Agora que você criou uma branch nova a partir da develop, você pode começar a programar sua tarefa. **Não esqueça de commitar(subir as versões da sua branch) sempre que finalizar trechos da sua tarefa**. Para fazer isso rode as etapas a seguir:
+
 ```text
 git status
 git commit -am "digite dentro das aspas duplas o que você fez, sempre no gerúndio. Por exemplo: Criando o header responsivo"
